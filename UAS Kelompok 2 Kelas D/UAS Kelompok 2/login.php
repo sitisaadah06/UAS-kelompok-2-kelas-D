@@ -49,6 +49,7 @@ die();
 <div class="header">
     <form method="post" action="kelompok.html">
     <button type="submit" name="submit" value="Keluar">About Kelompok</a></button>
+    <center><a href = "https://www.unsrat.ac.id" target="blank">@unsrat.ac.id</a></center>
     </form></div>
 <div class="signup-box">
     <p><center><h1>Sign Up Successful !</h1></center></p></div>
